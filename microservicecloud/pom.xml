@@ -93,6 +93,8 @@
     <modules>
         <module>../microservicecloud-pid</module>
         <module>microserviceclodproviderdept8001</module>
+        <module>microservicecloud-consumer-dept-80</module>
+        <module>microservicecloud-eureka-7001</module>
     </modules>
 
 
