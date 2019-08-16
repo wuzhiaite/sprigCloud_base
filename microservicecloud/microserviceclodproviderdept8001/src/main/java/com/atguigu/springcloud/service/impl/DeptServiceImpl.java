@@ -9,10 +9,14 @@ import org.springframework.stereotype.Service;
 
 import com.atguigu.springcloud.service.DeptService;
 
+import javax.annotation.Resource;
+
+
 @Service
 public class DeptServiceImpl implements DeptService
 {
 	@Autowired
+	@Resource
 	private DeptDAO dao;
 	
 	@Override
