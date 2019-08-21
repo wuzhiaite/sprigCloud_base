@@ -2,106 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b955f548-dfd0-4d17-9333-2717646844a0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_atguigu_springcloud_microservicecloud_api_1_0_SNAPSHOT.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_8_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_53.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_4_6_0_201612231935_r.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_1_3_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_1_3_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_1_3_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_dashboard_1_3_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zuul_1_3_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/microservicecloud-api.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-api/src/main/java/com/atguigu/springcloud/service/DeptClientServiceFallbackFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-config-3344/microservicecloud-config-3344.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-config-3344/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-config-3344/src/main/java/com/atguigu/springcloud/Config3344_App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-config-client-3355/microservicecloud-config-client-3355.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-config-client-3355/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-feign/microservicecloud-consumer-dept-feign.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-feign/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-feign/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-hystrix-dashboard/microservicecloud-consumer-hystrix-dashboard.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-hystrix-dashboard/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-hystrix-dashboard/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001-hystrix/microservicecloud-provider-dept-8001-hystrix.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001-hystrix/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001-hystrix/src/main/java/com/atguigu/springcloud/DeptProvider8001_Hystrix_APP.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001-hystrix/src/main/java/com/atguigu/springcloud/controller/DeptController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001-hystrix/src/main/java/com/atguigu/springcloud/dao/DeptDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001-hystrix/src/main/java/com/atguigu/springcloud/service/DeptService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001-hystrix/src/main/java/com/atguigu/springcloud/service/impl/DeptServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/microservicecloud-provider-dept-8001.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/resources/mybatis/mapper/DeptMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/resources/mybatis/mybatis.cfg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8002/microservicecloud-provider-dept-8002.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8002/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8002/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8002/src/main/resources/mybatis/mapper/DeptMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8002/src/main/resources/mybatis/mybatis.cfg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8003/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8003/src/main/resources/mybatis/mapper/DeptMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8003/src/main/resources/mybatis/mybatis.cfg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-zuul-gateway-9527/microservicecloud-zuul-gateway-9527.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-zuul-gateway-9527/pom.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud-api/microservicecloud-pid.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud-api/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/atguigu/springcloud/entity/Dept.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud-api/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud-pid/target/classes/com/atguigu/springcloud/entity/Dept.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud-pid/target/microservicecloud.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud/microserviceclod-provider-dept-8001/target/classes/application.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud/microserviceclod-provider-dept-8001/target/classes/com/atguigu/springcloud/controller/DeptController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud/microserviceclod-provider-dept-8001/target/classes/com/atguigu/springcloud/dao/DeptDAO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud/microserviceclod-provider-dept-8001/target/classes/com/atguigu/springcloud/service/DeptService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud/microserviceclod-provider-dept-8001/target/classes/com/atguigu/springcloud/service/impl/DeptServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud/microserviceclod-provider-dept-8001/target/classes/mybatis/mapper/DeptMapper.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud/microserviceclod-provider-dept-8001/target/classes/mybatis/mybatis.cfg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud/microserviceclod-provider-dept-8003/src/main/java/springcloud/DeptProvider8003_APP.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud/microserviceclod-provider-dept-8003/src/main/java/springcloud/controller/DeptController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud/microserviceclod-provider-dept-8003/src/main/java/springcloud/dao/DeptDAO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud/microserviceclod-provider-dept-8003/src/main/java/springcloud/service/DeptService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud/microserviceclod-provider-dept-8003/src/main/java/springcloud/service/impl/DeptServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud/microserviceclodproviderdept8001/target/classes/com/atguigu/springcloud/DeptProvider8001_APP.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8002/microservicecloudproviderdept8002.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/target/classes/com/atguigu/myrule/MySelfRule.class" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/target/classes/com/atguigu/myrule/MySelfRule.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/target/classes/com/atguigu/springcloud/DeptConsumer80_App.class" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/target/classes/com/atguigu/springcloud/DeptConsumer80_App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/target/classes/com/atguigu/springcloud/cfgbeans/ConfigBean.class" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/target/classes/com/atguigu/springcloud/cfgbeans/ConfigBean.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/target/classes/com/atguigu/springcloud/controller/DeptController_Consumer.class" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/target/classes/com/atguigu/springcloud/controller/DeptController_Consumer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/microservicecloud-consumer-dept-80.iml" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/microservicecloud-consumer-dept-80.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/src/main/java/com/atguigu/myrule/MySelfRule.java" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/src/main/java/com/atguigu/myrule/MySelfRule.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/src/main/java/com/atguigu/springcloud/DeptConsumer80_App.java" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/src/main/java/com/atguigu/springcloud/DeptConsumer80_App.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/src/main/java/com/atguigu/springcloud/cfgbeans/ConfigBean.java" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/src/main/java/com/atguigu/springcloud/cfgbeans/ConfigBean.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/src/main/resources/application.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/target/classes/application.yml" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/target/classes/application.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7001/target/classes/application.yml" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7001/target/classes/application.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microservicecloud/pom.xml" afterPath="$PROJECT_DIR$/microservicecloud/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/microservicecloud-pid/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-config-3344/src/main/resources/application.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/microservicecloud/microserviceclodproviderdept8001/microserviceclodproviderdept8001.iml" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8003/microservicecloud-provider-dept-8003.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/microservicecloud/microserviceclodproviderdept8001/pom.xml" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8003/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/microservicecloud/microserviceclodproviderdept8001/target/classes/application.yml" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001-hystrix/src/main/resources/application.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/microservicecloud/microserviceclodproviderdept8001/target/classes/mybatis/mapper/DeptMapper.xml" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001-hystrix/src/main/resources/mybatis/mapper/DeptMapper.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/microservicecloud/microserviceclodproviderdept8001/target/classes/mybatis/mybatis.cfg.xml" afterPath="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001-hystrix/src/main/resources/mybatis/mybatis.cfg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.MD" afterPath="$PROJECT_DIR$/README.MD" />
     </list>
     <ignored path="$PROJECT_DIR$/microservicecloud/target/" />
     <ignored path="$PROJECT_DIR$/microservicecloud-pid/target/" />
@@ -152,12 +54,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-config-client-3355/src/main/resources/bootstrap.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <state relative-caret-position="243">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.MD" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.MD">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="162">
+                <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -226,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/microservicecloud/microserviceclod-provider-dept-8003/src/main/java/com/springcloud/dao/DeptDAO.java" />
         <option value="$PROJECT_DIR$/microservicecloud/microserviceclod-provider-dept-8003/src/main/java/com/springcloud/service/DeptService.java" />
         <option value="$PROJECT_DIR$/microservicecloud/microserviceclod-provider-dept-8003/src/main/java/com/atguigu/springcloud/service/impl/DeptServiceImpl.java" />
         <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/java/springcloud/dao/DeptDAO.java" />
@@ -277,6 +191,7 @@
         <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-config-client-3355/pom.xml" />
         <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-config-client-3355/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-config-client-3355/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/README.MD" />
       </list>
     </option>
   </component>
@@ -390,128 +305,6 @@
               <item name="springcloud2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
               <item name="microservicecloud-config-3344" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-config-client-3355" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-config-client-3355" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-config-client-3355" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-config-client-3355" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-config-client-3355" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-config-client-3355" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-eureka-7001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-eureka-7001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-eureka-7001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-eureka-7001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-zuul-gateway-9527" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-zuul-gateway-9527" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-zuul-gateway-9527" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-zuul-gateway-9527" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-zuul-gateway-9527" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-zuul-gateway-9527" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="Zuul_9527_StartSpringCloudApp" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="springcloud2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicecloud-zuul-gateway-9527" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -879,12 +672,12 @@
       <workItem from="1565614934016" duration="17333000" />
       <workItem from="1565919521239" duration="29673000" />
       <workItem from="1566202107577" duration="6657000" />
-      <workItem from="1566210908886" duration="19055000" />
+      <workItem from="1566210908886" duration="20127000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147942000" />
+    <option name="totallyTimeSpent" value="149014000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -897,6 +690,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293944" sideWeight="0.49763674" order="6" side_tool="false" content_ui="tabs" />
@@ -910,7 +704,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30637813" sideWeight="0.66523606" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293944" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44756278" sideWeight="0.4962863" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44646925" sideWeight="0.4962863" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25268242" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -994,13 +788,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8002/src/main/java/com/atguigu/springcloud/controller/DeptController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8002/src/main/java/com/atguigu/springcloud/service/impl/DeptServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -1320,7 +1107,7 @@
         <state relative-caret-position="324">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1411,9 +1198,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-config-client-3355/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="243">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
